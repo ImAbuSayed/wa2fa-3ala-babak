@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wa2fa 3ala Babak
+
+This log tracks the cryptographic history and versioning for the song **Wa2fa 3ala Babak** (wa2fa-3ala-babak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:59:09.490016 | `v1` | `400c9ac6900e120a99a1babbac5e9e7a5118b2e5e28f019d7f076f640904d83c` | `5f2e8dce39e08aaa78538a2f3ba7bc8db7e9adece093df095fa2bc1394ab0137` | `2026-05-09_wa2fa-3ala-babak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
